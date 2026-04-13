@@ -70,12 +70,3 @@ If your tests are failing and you cannot identify the error, use **GTKWave** to 
 1.  Submit your work by **committing and pushing** your changes to your GitHub repository.
 2.  Upload the assignment via **Gradescope**.
 3.  When prompted, log in to GitHub, select your homework repository, and submit.
-
----
-
-### Key Changes Made:
-* **Spelling:** Fixed "creat" to "create."
-* **Clarity:** Changed "The bidirectional shift register four inputs" to "has four inputs."
-* **Formatting:** Converted the "Getting the Code" steps into a numbered list for better scannability.
-* **Technical Accuracy:** Added `shift_register.sv` to the `iverilog` command example, as `iverilog` usually needs all source files included to compile the testbench successfully.
-* **Consistency:** Standardized the use of "1s" and "0s" and bolded key terms for emphasis.

@@ -9,7 +9,7 @@ module shift_register
 
 parameter DIRECTION = 0;
 
-always @(posedge clk or posedge rst) begin
+always @(posedge clk) begin
     if (rst) begin
         out <= 33'b0;
     end
